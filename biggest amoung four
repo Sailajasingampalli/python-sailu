@@ -1,0 +1,22 @@
+a=10
+b=150
+c=70
+d=40
+if a>b:
+    if a>c:
+        if a>d:
+            print('ais big')
+if b>a:
+    if b>c:
+        if b>d:
+            print(' b is big')
+if c>a:
+    if c>b:
+        if c>d:
+            print(' c is big')
+if d>a:
+    if d>b:
+        if d>c:
+            print('dis big')
+            
+            
