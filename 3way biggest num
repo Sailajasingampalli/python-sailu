@@ -1,0 +1,33 @@
+Way 1:
+def biggestnumber(a,b):
+    if a>b:
+        print(' a is big')
+    else:
+        print('bis big')
+a=int(input())
+b=int(input())
+biggestnumber(a,b)
+
+
+Way 2:
+def biggestnumber(a,b):
+    if a>b:
+        return 'a is big'
+    else:
+        return 'b is big'
+a=int(input())
+b=int(input())
+print(biggest number(a,b))
+
+Way3:
+def biggestnumber(a,b):
+    if a>b:
+        return Ture
+    else:
+        return False
+a=int(input())
+b=int(input())
+if(biggestnumer(a,b)):
+    print('a is big')
+else:
+    print('bis big')
