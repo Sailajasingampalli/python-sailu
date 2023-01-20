@@ -1,0 +1,15 @@
+def valid(s):#(
+while(True):
+if 'Il' in s:
+s=s.replace('I)',")
+elif"(' in s:
+s=s.replace('()',")
+elif"2' in s:
+s=s.replace(*},
+else:
+return not s
+s=inputo
+if valid(s):
+print('Yes')
+else:
+print('No')
