@@ -1,0 +1,5 @@
+s=input()
+n=len(s)
+k=int(input())
+for i in range(n):
+        print(s[i]*k,end="")
